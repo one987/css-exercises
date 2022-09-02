@@ -1,0 +1,25 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pink {
+    background-color: #F27ED3;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#blue {
+    color: #1826E9;
+    font-size: 36px;
+}
+
+.panther {
+    font-size: 24px;
+
+}
+
+#bold {
+    background-color: #3DD152;
+    font-size: 24px;
+    font-weight: bold;
+}
